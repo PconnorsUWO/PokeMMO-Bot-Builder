@@ -1,0 +1,4 @@
+pyautogui==0.9.54           # For controlling mouse and keyboard actions
+keyboard==0.13.5            # For keyboard events
+pynput==1.7.6               # Alternative for keyboard/mouse control
+opencv-python==4.8.0.76     # For image recognition in the game
