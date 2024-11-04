@@ -26,7 +26,7 @@ To use PokeMMO-Bot-Builder, ensure you have:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/PokeMMO-Bot-Builder.git
+   git clone https://github.com/pconnorsUWO/PokeMMO-Bot-Builder.git
    ```
 
 2. Navigate to the project folder:
